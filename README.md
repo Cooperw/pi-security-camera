@@ -1,10 +1,5 @@
 # pi-security-camera
 
-Enable camera in Interfaces
-```
-sudo raspi-config
-```
-
 Install motion
 ```
 sudo apt-get install motion
@@ -32,7 +27,7 @@ Start the service
 sudo service motion start
 ```
 
-Reboot
+Enable camera in Interface Options and then reboot
 ```
-sudo reboot
+sudo raspi-config
 ```
