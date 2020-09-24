@@ -1,5 +1,7 @@
 # pi-security-camera
 
+Origional Instructions found here: https://www.instructables.com/id/Raspberry-Pi-Motion-Detection-Security-Camera/
+
 Install motion
 ```
 sudo apt-get install motion
